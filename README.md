@@ -1,6 +1,6 @@
-# MoodFeed: A Mood-Based Video Feed Feature for Instagram-like Apps
+# ZenMode: A Mood-Based Video Feed Feature for Instagram-like Apps
 
-MoodFeed is a feature that allows users to select their current mood, and based on that mood, view videos that align with their emotional state. This feature integrates seamlessly with an Instagram-like app, offering users a dynamic and personalized video experience.
+ZenMode is a feature that allows users to select their current mood, and based on that mood, view videos that align with their emotional state. This feature integrates seamlessly with an Instagram-like app, offering users a dynamic and personalized video experience.
 
 ## Table of Contents
 
